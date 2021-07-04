@@ -22,14 +22,14 @@ y= [[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],
 ```
 There is a two kind of method.
 
-## First Method 1 : Cross_Validation_w_KerasModel_SimpleEx.py
+## Method 1 : Cross_Validation_w_KerasModel_SimpleEx.py
 It also draws the history of the learning process as processing epochs.
 You can obtain the graph like below one if u are learning this code.
 
 ![image](https://user-images.githubusercontent.com/71545160/124382332-dc8f0b80-dd01-11eb-902d-8600410c88cc.png)
 
 
-## Cross_Validation_w_KerasModel_SimpleEx_ver2.py
+## Method 2 :Cross_Validation_w_KerasModel_SimpleEx_ver2.py
 This code is simple code for Cross Validation with KerasModel.
 
 You can obtain the results like below one if u are learning this code.
