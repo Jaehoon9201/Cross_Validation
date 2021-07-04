@@ -1,4 +1,4 @@
-# Keras Model Cross_Validation uisng a Kfold 
+# Keras Model Cross-Validation uisng a Kfold 
 This code is for the Cross Validation using a Kfold.
 
 Sample data is made for simple running this code.
@@ -24,7 +24,7 @@ There is a two kind of method.
 
 ## Method 1 : Cross_Validation_w_KerasModel_SimpleEx.py
 It also draws the history of the learning process as processing epochs.
-You can obtain the graph like below one if u are learning this code.
+You can obtain the graph like below one if u are running this code.
 
 ![image](https://user-images.githubusercontent.com/71545160/124382332-dc8f0b80-dd01-11eb-902d-8600410c88cc.png)
 
@@ -32,5 +32,5 @@ You can obtain the graph like below one if u are learning this code.
 ## Method 2 :Cross_Validation_w_KerasModel_SimpleEx_ver2.py
 This code is simple code for Cross Validation with KerasModel.
 
-You can obtain the results like below one if u are learning this code.
+You can obtain the results like below one if u are running this code.
 ![image](https://user-images.githubusercontent.com/71545160/124382375-16601200-dd02-11eb-8d51-95a27e51f157.png)
